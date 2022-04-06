@@ -428,7 +428,7 @@ for(i in 1:simno){
 #Generate the data for the different simulation scenarios
 ############################################################################################################
 
-#* NOTE: Set the working directory to where data to be stored 
+#* NOTE: Set the working directory to where data needs to be stored under each simulation condition 
 
 ############### MAR-CATS- adding 10 clusters ###################################################
 
